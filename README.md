@@ -44,43 +44,47 @@
   </tr>
   <tr>
     <td><a href="https://quickdraw.withgoogle.com">Quickdraw</a></td>
-    <td>p.84</td>
+    <td>p.88</td>
   </tr>
   <tr>
     <td><a href="https://dash.gallery/dash-tsne">t-SNE</a></td>
-    <td>p.106</td>
+    <td>p.110</td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/uQGQTIvaXas">VAE/GNA</a></td>
+    <td>p.118</td>
   </tr>
   <tr>
     <td><a href="https://youtu.be/Q1XuXwPVFko">VAE</a></td>
-    <td>p.113</td>
+    <td>p.119</td>
   </tr>
   <tr>
     <td><a href="https://dash.gallery/dash-gan-editor">GAN</a></td>
-    <td>p.114</td>
+    <td>p.120</td>
   </tr>
   <tr>
     <td><a href="https://poloclub.github.io/ganlab/">GAN 2</a></td>
-    <td>p.114</td>
+    <td>p.121</td>
   </tr>
   <tr>
     <td><a href="https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html">Sketch RNN</a></td>
-    <td>p.119</td>
+    <td>p.126</td>
   </tr>
   <tr>
     <td><a href="https://www.autodraw.com">AutoDraw</a></td>
-    <td>p.119</td>
-  </tr>
-  <tr>
-    <td><a href="https://encoradigital.github.io/SAB-timeseries-playground">Time Series Analysis</a></td>
-    <td>p.122</td>
+    <td>p.127</td>
   </tr>
   <tr>
     <td><a href="https://dash.gallery/self-driving">Object Detection</a></td>
-    <td>p.122</td>
+    <td>p.129</td>
   </tr>
   <tr>
     <td><a href="https://dash.gallery/dash-video-detection">Object Detection 2</a></td>
-    <td>p.123</td>
+    <td>p.130</td>
+  </tr>
+  <tr>
+    <td><a href="https://encoradigital.github.io/SAB-timeseries-playground">Time Series Analysis</a></td>
+    <td>p.136</td>
   </tr>
 </table>
 <br><br>
