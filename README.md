@@ -59,12 +59,20 @@
     <td>p.114</td>
   </tr>
   <tr>
+    <td><a href="https://poloclub.github.io/ganlab/">GAN 2</a></td>
+    <td>p.114</td>
+  </tr>
+  <tr>
     <td><a href="https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html">Sketch RNN</a></td>
     <td>p.119</td>
   </tr>
   <tr>
     <td><a href="https://www.autodraw.com">AutoDraw</a></td>
     <td>p.119</td>
+  </tr>
+  <tr>
+    <td><a href="https://encoradigital.github.io/SAB-timeseries-playground">Time Series Analysis</a></td>
+    <td>p.122</td>
   </tr>
   <tr>
     <td><a href="https://dash.gallery/self-driving">Object Detection</a></td>
