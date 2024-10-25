@@ -88,31 +88,31 @@
   </tr>
   <tr>
     <td>머신러닝·딥러닝을 이용한 숫자인식 연습</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/mnist_deeplearning.html">https://ycanns.github.io/DeepLearning_Class_NRC/mnist_deeplearning.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/mnist_deeplearning.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/mnist_deeplearning.html</a></td>
   </tr>
   <tr>
     <td>순환신경망을 이용한 시계열 추이 예측</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/corona_rnn.html">https://ycanns.github.io/DeepLearning_Class_NRC/corona_rnn.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/corona_rnn.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/corona_rnn.html</a></td>
   </tr>
   <tr>
     <td>GAN 모델을 이용한 모조 데이터 생성</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/mnist_GAN_model.html">https://ycanns.github.io/DeepLearning_Class_NRC/mnist_GAN_model.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/mnist_GAN_model.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/mnist_GAN_model.html</a></td>
   </tr>
   <tr>
     <td>비지도 학습 구현: 클러스터링 DBSCAN & K-means</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/DBSCAN_n_KMeans.html">https://ycanns.github.io/DeepLearning_Class_NRC/DBSCAN_n_KMeans.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/DBSCAN_n_KMeans.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/DBSCAN_n_KMeans.html</a></td>
   </tr>
   <tr>
     <td>비지도 학습 구현: 클러스터링 PCA</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/PCA_sample.html">https://ycanns.github.io/DeepLearning_Class_NRC/PCA_sample.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/PCA_sample.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/PCA_sample.html</a></td>
   </tr>
   <tr>
     <td>텍스트 마이닝을 통한 감성분석: 네이버 영화리뷰</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/Naver_movie_review.html">https://ycanns.github.io/DeepLearning_Class_NRC/Naver_movie_review.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/Naver_movie_review.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/Naver_movie_review.html</a></td>
   </tr>
   <tr>
     <td>텍스트 마이닝을 통한 감성분석: IMDb 영화리뷰</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/Emotional_Analysis_with_ML.html">https://ycanns.github.io/DeepLearning_Class_NRC/Emotional_Analysis_with_ML.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/Emotional_Analysis_with_ML.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/Emotional_Analysis_with_ML.html</a></td>
   </tr>
 </table>
 
@@ -175,67 +175,67 @@
   </tr>
   <tr>
     <td>활성화 함수</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/Activation_function.html">https://ycanns.github.io/DeepLearning_Class_NRC/Activation_function.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/Activation_function.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/Activation_function.html</a></td>
   </tr>
   <tr>
     <td>최적화 방법 샘플 (확률적 경사하강법, SGD)</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/SGD_example.html">https://ycanns.github.io/DeepLearning_Class_NRC/SGD_example.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/SGD_example.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/SGD_example.html</a></td>
   </tr>
   <tr>
     <td>숫자인식을 위한 합성곱신경망(CNN) 예제</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/mnist_CNN.html">https://ycanns.github.io/DeepLearning_Class_NRC/mnist_CNN.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/mnist_CNN.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/mnist_CNN.html</a></td>
   </tr>
   <tr>
     <td>Mask R-CNN을 이용한 객체인식</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/Mask_R_CNN_Image_Segmentation_Demo.html">https://ycanns.github.io/DeepLearning_Class_NRC/Mask_R_CNN_Image_Segmentation_Demo.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/Mask_R_CNN_Image_Segmentation_Demo.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/Mask_R_CNN_Image_Segmentation_Demo.html</a></td>
   </tr>
   <tr>
     <td>OpenCV를 이용한 객체인식</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/openCV_Face_n_Eye_Detector.html">https://ycanns.github.io/DeepLearning_Class_NRC/openCV_Face_n_Eye_Detector.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/openCV_Face_n_Eye_Detector.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/openCV_Face_n_Eye_Detector.html</a></td>
   </tr>
   <tr>
     <td>OpenCV 파라메터/ 데이터</td>
-    <td><a href="https://github.com/ycanns/DeepLearning_Class_NRC/tree/master/data">https://github.com/ycanns/DeepLearning_Class_NRC/tree/master/data</a></td>
+    <td><a href="https://github.com/ycanns/DJ_AI_ML_DL_Class/tree/master/data">https://github.com/ycanns/DJ_AI_ML_DL_Class/tree/master/data</a></td>
   </tr>
   <tr>
     <td>데이터일반화 및 전처리 샘플</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/Normalization_sample.html">https://ycanns.github.io/DeepLearning_Class_NRC/Normalization_sample.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/Normalization_sample.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/Normalization_sample.html</a></td>
   </tr>
     <tr>
     <td>숫자인식 및 예측을 위한 랜덤포레스트 예제</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/Random_Forest.html">https://ycanns.github.io/DeepLearning_Class_NRC/Random_Forest.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/Random_Forest.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/Random_Forest.html</a></td>
   </tr>
     <tr>
     <td>BOSTON 데이터를 이용한 랜덤포레스트 예제 (Python 수정)</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/RandomForest_Boston_Data.html">https://ycanns.github.io/DeepLearning_Class_NRC/RandomForest_Boston_Data.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/RandomForest_Boston_Data.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/RandomForest_Boston_Data.html</a></td>
   </tr>
     <tr>
     <td>BOSTON 데이터를 이용한 랜덤포레스트 예제 (R)</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/Run_randomforest_with_R.html">https://ycanns.github.io/DeepLearning_Class_NRC/Run_randomforest_with_R.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/Run_randomforest_with_R.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/Run_randomforest_with_R.html</a></td>
   </tr>
   <tr>
     <td>K-means Clustering & t-SNE</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/tsne_example.html">https://ycanns.github.io/DeepLearning_Class_NRC/tsne_example.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/tsne_example.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/tsne_example.html</a></td>
   </tr>
   <tr>
     <td>다변수 활용 순환신경망을 이용한 시계열 추이 예측</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/corona_rnn_2.html">https://ycanns.github.io/DeepLearning_Class_NRC/corona_rnn_2.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/corona_rnn_2.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/corona_rnn_2.html</a></td>
   </tr>
   <tr>
     <td>지방인허가 데이터를 이용한 DBSCAN 및 시각화</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/Visualization_with_LocalData.html">https://ycanns.github.io/DeepLearning_Class_NRC/Visualization_with_LocalData.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/Visualization_with_LocalData.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/Visualization_with_LocalData.html</a></td>
   </tr>
   <tr>
     <td>mapbox, deckgl 등을 이용한 시각화 예제</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/OD_data_visualization.html">https://ycanns.github.io/DeepLearning_Class_NRC/OD_data_visualization.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/OD_data_visualization.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/OD_data_visualization.html</a></td>
   </tr>
   <tr>
     <td>샘플데이터</td>
-    <td><a href="https://github.com/ycanns/DeepLearning_Class_NRC/tree/master/data">https://github.com/ycanns/DeepLearning_Class_NRC/tree/master/data</a></td>
+    <td><a href="https://github.com/ycanns/DJ_AI_ML_DL_Class/tree/master/data">https://github.com/ycanns/DJ_AI_ML_DL_Class/tree/master/data</a></td>
   </tr>
   <tr>
     <td>추론기반 텍스트 마이닝 샘플: word2vec</td>
-    <td><a href="https://ycanns.github.io/DeepLearning_Class_NRC/Word2Vec_example.html">https://ycanns.github.io/DeepLearning_Class_NRC/Word2Vec_example.html</a></td>
+    <td><a href="https://ycanns.github.io/DJ_AI_ML_DL_Class/Word2Vec_example.html">https://ycanns.github.io/DJ_AI_ML_DL_Class/Word2Vec_example.html</a></td>
   </tr>
   <tr>
 </table>
