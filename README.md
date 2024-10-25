@@ -1,5 +1,5 @@
 # 대전문화산업진흥원 「AI활용 머신러닝 딥러닝」 실습 자료
-## Deep Learning Hands on materials
+## Machine Learning/ Deep Learning Hands on materials
 
 ### 국토연구원 |  장요한 부연구위원
 ### ycanns@krihs.re.kr | ycanns@gmail.com | https://github.com/ycanns
