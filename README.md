@@ -47,6 +47,11 @@
     <td>p.88</td>
   </tr>
   <tr>
+    <td><a href="https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/">DBSCAN</a></td>
+    <td>p.102</td>
+  </tr>
+  
+  <tr>
     <td><a href="https://dash.gallery/dash-tsne">t-SNE</a></td>
     <td>p.110</td>
   </tr>
